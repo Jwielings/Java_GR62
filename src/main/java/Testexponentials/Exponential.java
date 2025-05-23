@@ -1,7 +1,7 @@
 package Testexponentials;
 
 public class Exponential {
-    public static int exponential(int base, int exp) {
+    public int exponential(int base, int exp) {
         int principle;
         principle = base;
 
